@@ -24,7 +24,7 @@ Creating high-quality educational resources requires time and expertise. This ap
 ## ⚙️ Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/ai-edu-resource-generator.git
+   git clone https://github.com/aleenaharoldpeter/Pragati_AI_for_Impact_Hackathon_2025.git
    cd ai-edu-resource-generator
    ```
 2. **Install dependencies:**
