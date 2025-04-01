@@ -4,7 +4,7 @@
 Creating high-quality educational resources requires time and expertise. This app leverages AI to generate well-structured learning materials, including PDFs, quizzes, and audio lessons, based on user queries. It also supports translation and classification, making education more accessible worldwide.
 
 ## 🚀 Live App
-[Access the Live App](https://dummy-link.com)
+[Access the Live App](https://pragatiaiforimpacthackathon2025-foswrb3xlnymr4qs393ctr.streamlit.app/)
 
 ## 🛠️ Tech Used
 - **Python**: Core programming language
