@@ -5,3 +5,4 @@ reportlab
 transformers
 torch
 tensorflow
+tf-keras
